@@ -9,6 +9,7 @@
 | D    | Shattered Throne                |
 
 ### Encounter Tier List
+
 | Tier | Encounter                       |
 | ---- | ------------------------------- |
 | S+   | Duality Caiatl |
