@@ -1,4 +1,5 @@
 # D2 Solo Dungeon Tier List and Advice
+
 | Tier | Dungeon                         |
 | ---- | ------------------------------- |
 | S    | Duality                         |
