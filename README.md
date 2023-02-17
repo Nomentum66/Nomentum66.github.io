@@ -6,7 +6,7 @@
 | A    | Prophecy                        |
 | B    | Spire of the Watcher            |
 | C    | Grasp of Avarice, Pit of Heresy |
-| D    | Shattered Throne                |
+| D    | [Shattered Throne](https://nomentum66.github.io/ShatteredThrone/) |
 
 ### Encounter Tier List
 
