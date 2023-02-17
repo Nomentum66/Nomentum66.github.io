@@ -5,7 +5,7 @@
 | S    | Duality                         |
 | A    | Prophecy                        |
 | B    | Spire of the Watcher            |
-| C    | Grasp of Avarice, Pit of Heresy |
+| C    | [Grasp of Avarice](https://nomentum66.github.io/GraspOfAvarice/), [Pit of Heresy](https://nomentum66.github.io/PitOfHeresy/) |
 | D    | [Shattered Throne](https://nomentum66.github.io/ShatteredThrone/) |
 
 ### Encounter Tier List
