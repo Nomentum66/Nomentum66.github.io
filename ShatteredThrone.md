@@ -3,7 +3,7 @@ permalink: /ShatteredThrone/
 ---
 
 # Shattered Throne
-## **Overall Difficulty:** D
+### **Overall Difficulty:** D
 
 Shattered Throne is by far the easiest dungeon in the game to solo. A victim of power creep, the only complex part of this dungeon in the modern age of Destiny is the mechanics for the Vorgeth fight. Other than that, this dungeon should be soloable by even novice dungeon-goers. The bosses fall easily in one phase, making recovering after a damage phase unnecessary, which may be the toughest part of each of the fights. Take the platforming slow and steady, and this dungeon should be easily beaten.
 
