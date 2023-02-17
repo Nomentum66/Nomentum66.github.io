@@ -4,3 +4,5 @@ plugins:
 
 title: D2 Solo Dungeon Guide
 description: Strats to solo Destiny 2's most challenging content
+github:
+  is_project_page: false
