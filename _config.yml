@@ -2,7 +2,7 @@ remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [D2 Solo Dungeon Guide](https://nomentum66.github.io/)
+title: D2 Solo Dungeon Guide
 description: Strats to solo Destiny 2's most challenging content
 github:
   is_project_page: false
